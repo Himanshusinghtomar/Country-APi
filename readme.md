@@ -29,14 +29,13 @@ https://country-a-pi.vercel.app/
 
 List the technologies or libraries you used to build this project:
 
-- Frontend: HTML, CSS, JavaScript (or any frameworks/libraries you used)
-- Backend: (If applicable, list the backend technologies)
-- Countries API (Include the link to the API documentation)
+- Frontend: HTML, CSS, JavaScript 
+- Countries API https://restcountries.com/
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/country-api-project.git`
-2. Navigate to the project directory: `cd country-api-project`
+1. Clone the repository: `https://github.com/Himanshusinghtomar/Country-APi`
+2. Navigate to the project directory: `cd country-api`
 3. Open the index.html file in your web browser.
 
 ## Usage
@@ -45,7 +44,7 @@ Explain how users can use your application here. Provide examples or screenshots
 
 ## API Endpoints
 
-If you have created any additional API endpoints to enhance the functionality of the Countries API, list and explain them here.
+There no additional end point all end point and query string is given by country api .
 
 ## Contributing
 

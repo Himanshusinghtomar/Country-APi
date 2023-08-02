@@ -74,3 +74,43 @@ a{
 .card-text p{
     margin-block: 4px;
 }
+.countryDetails
+{
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.country
+{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin-inline: auto;
+
+}
+.flagImg{
+    width: 500px;
+}
+.btnBack
+{
+    margin: 20px 10px;
+    display: inline-block;
+    padding: 6px 18px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+}
+
+@media(max-width: 768px) {
+    .countries-container
+    {
+        justify-content: center;
+    }
+    .flagImg{
+        width: 300px;
+    }
+    
+}
